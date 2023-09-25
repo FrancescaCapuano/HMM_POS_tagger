@@ -22,7 +22,7 @@ and then transformed into a list.
 instantiated from the `Conll` object with the `cpdist_tags_words()`` method,
 and then transformed into a matrix.
 
-		<sub>#NOTE The modality of instantiation of b will depend on the initially chosen
+		<sub>NOTE The modality of instantiation of b will depend on the initially chosen
 distribution.</sub>
 
 6. A list of lists of split sentences is created from the test file.
